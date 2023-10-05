@@ -1,7 +1,7 @@
 ## Olá! Eu sou Gabriel Merola
 
 - 🔭 Front-end / Back-end
-- 🌱 Estudando C#, HTML, CSS, JS, JAVA, Python
+- 🌱 Estudante de Ciência da Computação no IMT
 - 💬 Contato: gabrielmerola12@gmail.com
 
 <div align="center">
