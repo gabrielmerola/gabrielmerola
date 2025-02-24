@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Gabriel da Silva Merola<br>💻 Ciência da Computação | 2º Ano IMT
+Olá, meu nome é Gabriel da Silva Merola<br>💻 Ciência da Computação | 3º Ano IMT
 
 
 ## 🌐 Socials:
